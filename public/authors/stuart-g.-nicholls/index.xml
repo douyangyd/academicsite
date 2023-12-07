@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stuart G. Nicholls | Yongdong Ouyang</title>
+    <link>/authors/stuart-g.-nicholls/</link>
+      <atom:link href="/authors/stuart-g.-nicholls/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stuart G. Nicholls</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Stuart G. Nicholls</title>
+      <link>/authors/stuart-g.-nicholls/</link>
+    </image>
+    
+    <item>
+      <title>Reporting of and explanations for under-recruitment and over-recruitment in pragmatic trials: a secondary analysis of a database of primary trial reports published from 2014 to 2019</title>
+      <link>/publication/journal-article/2022-01-01_nevins_reporting_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2022-01-01_nevins_reporting_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

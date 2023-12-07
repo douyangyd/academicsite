@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hubert Wong | Yongdong Ouyang</title>
+    <link>/authors/hubert-wong/</link>
+      <atom:link href="/authors/hubert-wong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hubert Wong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hubert Wong</title>
+      <link>/authors/hubert-wong/</link>
+    </image>
+    
+    <item>
+      <title>Duration of Adjunctive Antidepressant Maintenance in Bipolar I Depression</title>
+      <link>/publication/journal-article/2023-01-01_yatham_duration_2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2023-01-01_yatham_duration_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of Line Complications with KiteLock (CLiCK) in the critical care unit: study protocol for a multi-center, cluster-randomized, double-blinded, crossover trial investigating the effect of a novel locking fluid on central line complications in the critical care population</title>
+      <link>/publication/journal-article/2022-01-01_ornowska_control_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2022-01-01_ornowska_control_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRTpowerdist: An R package to calculate attained power and construct the power distribution for cross-sectional stepped-wedge and parallel cluster randomized trials</title>
+      <link>/publication/journal-article/2021-01-01_ouyang_crtpowerdist_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2021-01-01_ouyang_crtpowerdist_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving efficiency in the stepped-wedge trial design via Bayesian modeling with an informative prior for the time effects</title>
+      <link>/publication/journal-article/2021-01-01_zhan_improving_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2021-01-01_zhan_improving_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for dealing with unequal cluster sizes in cluster randomized trials: A scoping review</title>
+      <link>/publication/journal-article/2021-01-01_zhan_methods_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2021-01-01_zhan_methods_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the variation in the attained power of a stepped-wedge trial with unequal cluster sizes</title>
+      <link>/publication/journal-article/2020-01-01_ouyang_explaining_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2020-01-01_ouyang_explaining_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing the power of randomized trials comparing different treatment durations</title>
+      <link>/publication/journal-article/2020-01-01_ouyang_increasing_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2020-01-01_ouyang_increasing_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The randomization-induced risk of a trial failing to attain its target power: assessment and mitigation</title>
+      <link>/publication/journal-article/2019-01-01_wong_randomization-induced_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019-01-01_wong_randomization-induced_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

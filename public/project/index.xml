@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yongdong Ouyang</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Current Research</title>
+      <link>/project/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/example/</guid>
+      <description>&lt;h1 id=&#34;pragmatic-clinical-trials&#34;&gt;Pragmatic clinical trials&lt;/h1&gt;
+&lt;p&gt;My program of research is about developing methods in design and analysis of randomized controlled trials. The details of my research are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Practical issues in cluster randomized trials&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Analytically models in longitudinal cluster randomized trials (e.g., Stepped-wedge cluster randomized trials)&lt;/li&gt;
+&lt;li&gt;Clustered/longitudinal data analysis&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Bayesian platform and adaptive trials&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimize trial design&lt;/li&gt;
+&lt;li&gt;Bayesian inference in clinical trials&lt;/li&gt;
+&lt;li&gt;Bayesian prior elicitations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;quasi-experimental-design&#34;&gt;Quasi-experimental design&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Interrupted time-series design&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiple baseline interrupted time-series (MBITS) design&lt;/li&gt;
+&lt;li&gt;Analytical models in MBITS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;statistical-consulting&#34;&gt;Statistical Consulting&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;Impact in healthcare&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Emergency medicine&lt;/li&gt;
+&lt;li&gt;Cardiovascular risk&lt;/li&gt;
+&lt;li&gt;Mental health: depression and mood disorder&lt;/li&gt;
+&lt;li&gt;Child mental health&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;building-capacity-in-data-scienece-and-causal-inference&#34;&gt;Building Capacity in Data Scienece and Causal Inference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Proposing guidelines for propensity score analyses in disease specific areas&lt;/li&gt;
+&lt;li&gt;See &lt;a href=&#34;/Teaching/&#34;&gt;teaching&lt;/a&gt; page for in-class teaching&lt;/li&gt;
+&lt;li&gt;See &lt;a href=&#34;/workshops/&#34;&gt;workshops&lt;/a&gt; page for webinars, workshops&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/Supervision/&#34;&gt;Supervision&lt;/a&gt; of graduate and undergraduate students / trainees.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;grant-support&#34;&gt;Grant support&lt;/h1&gt;
+&lt;p&gt;Some notable funding sources listed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cihr-irsc.gc.ca/e/51211.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canadian Institutes of Health Research&lt;/a&gt;, 2022-2023 (Resigned due to new employment)&lt;/li&gt;
+&lt;li&gt;Co-investigator and Collaborator in various other grants (CIHR).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

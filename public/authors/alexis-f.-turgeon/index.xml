@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexis F. Turgeon | Yongdong Ouyang</title>
+    <link>/authors/alexis-f.-turgeon/</link>
+      <atom:link href="/authors/alexis-f.-turgeon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexis F. Turgeon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexis F. Turgeon</title>
+      <link>/authors/alexis-f.-turgeon/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the effectiveness of a multifaceted intervention to reduce low-value care in adults hospitalized following trauma: a protocol for a pragmatic cluster randomized controlled trial</title>
+      <link>/publication/journal-article/2023-01-01_moore_evaluating_2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2023-01-01_moore_evaluating_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

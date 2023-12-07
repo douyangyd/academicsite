@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manisha A. Kulkarni | Yongdong Ouyang</title>
+    <link>/authors/manisha-a.-kulkarni/</link>
+      <atom:link href="/authors/manisha-a.-kulkarni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manisha A. Kulkarni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Manisha A. Kulkarni</title>
+      <link>/authors/manisha-a.-kulkarni/</link>
+    </image>
+    
+    <item>
+      <title>Accounting for complex intracluster correlations in longitudinal cluster randomized trials: a case study in malaria vector control</title>
+      <link>/publication/journal-article/2023-01-01_ouyang_accounting_2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2023-01-01_ouyang_accounting_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

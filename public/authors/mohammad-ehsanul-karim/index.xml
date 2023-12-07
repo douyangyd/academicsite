@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Ehsanul Karim | Yongdong Ouyang</title>
+    <link>/authors/mohammad-ehsanul-karim/</link>
+      <atom:link href="/authors/mohammad-ehsanul-karim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Ehsanul Karim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Mohammad Ehsanul Karim</title>
+      <link>/authors/mohammad-ehsanul-karim/</link>
+    </image>
+    
+    <item>
+      <title>CRTpowerdist: An R package to calculate attained power and construct the power distribution for cross-sectional stepped-wedge and parallel cluster randomized trials</title>
+      <link>/publication/journal-article/2021-01-01_ouyang_crtpowerdist_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2021-01-01_ouyang_crtpowerdist_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the variation in the attained power of a stepped-wedge trial with unequal cluster sizes</title>
+      <link>/publication/journal-article/2020-01-01_ouyang_explaining_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2020-01-01_ouyang_explaining_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The randomization-induced risk of a trial failing to attain its target power: assessment and mitigation</title>
+      <link>/publication/journal-article/2019-01-01_wong_randomization-induced_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019-01-01_wong_randomization-induced_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

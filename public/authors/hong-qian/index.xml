@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Qian | Yongdong Ouyang</title>
+    <link>/authors/hong-qian/</link>
+      <atom:link href="/authors/hong-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Qian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hong Qian</title>
+      <link>/authors/hong-qian/</link>
+    </image>
+    
+    <item>
+      <title>Increasing the power of randomized trials comparing different treatment durations</title>
+      <link>/publication/journal-article/2020-01-01_ouyang_increasing_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2020-01-01_ouyang_increasing_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
